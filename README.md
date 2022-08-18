@@ -5,5 +5,9 @@ This code takes in 4 locations such as Oregon_shelf, Axial_base, Oregon_offshore
 2. Scatter plot showing the local maxima sound speed for all 4 locations
 3. Sound Channel Dimensions (length and Width)
 
-Also needs directory location for pickle files from OOIPY and an export directory
-Export directory is because code outputs an excel file that contains the data for faster data access when reloading the same data. 
+User inputs:
+4 file names
+focus location
+
+4 file names - names of the files in the working directory of the code which were obtained from the CSV generation code.
+focus location - location where you would like to see the average speed of sound. 
